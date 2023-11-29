@@ -1,2 +1,2 @@
 # VAE-and-GANs
-VAE &amp; GANs implementation
+Implementation of VAEs and GANs from scratch.
